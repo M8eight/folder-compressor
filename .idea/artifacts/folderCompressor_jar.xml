@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="folderCompressor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/folderCompressor_jar</output-path>
+    <root id="archive" name="folderCompressor.jar">
+      <element id="module-output" name="folderCompressor" />
+    </root>
+  </artifact>
+</component>
